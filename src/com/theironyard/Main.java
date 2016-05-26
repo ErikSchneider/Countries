@@ -28,10 +28,10 @@ public class Main {
             countryMap.get(letter).add(country);
             System.out.println(countryMap);
 
-
-
-
         }
+        System.out.println("Enter a letter to show country list");
+        Scanner scanner = new Scanner(System.in);
+        String userInput
 
 
 
